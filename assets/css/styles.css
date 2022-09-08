@@ -139,7 +139,7 @@ h1 {
 
 /* Extra small devices in portrait mode (phones, 600px and down) */
 
-@media screen and (min-device-width: 380px) and (max-device-width: 736px)and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 3) {
+@media screen and (min-device-width: 380px) and (max-device-width: 736px)and (orientation: portrait) {
     h1 {
         padding: auto;
         display: flex;
@@ -150,12 +150,12 @@ h1 {
         height: auto;
     }
     .game-container {
-        max-width: 200px;
-        height: auto;
+        width: 90%;
+        min-width: 380px;
         margin: auto;
     }
     .board {
-        max-width: 200px;
+        width: 100%;
         height: auto;
         margin: auto;
         padding-left: 15%;
@@ -165,7 +165,7 @@ h1 {
 
 /* Small devices in portrait mode (portrait tablets and large phones, 600px and up) */
 
-@media screen and (min-device-width: 834px) and (max-device-width: 834px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+@media screen and (min-device-width: 834px) and (max-device-width: 834px) and (orientation: portrait) {
     h1 {
         padding: auto;
         display: flex;
@@ -177,19 +177,19 @@ h1 {
         height: auto;
     }
     .game-container {
-        max-width: 200px;
-        height: auto;
+        width: 90%;
+        min-width: 834px;
         margin: auto;
     }
     .board {
-        max-width: 200px;
+        width: 100%;
         height: auto;
         margin: auto;
         padding-left: 15%;
     }
 }
 
-@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) {
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (min-resolution: 192dpi) {
     h1 {
         padding: auto;
         display: flex;
@@ -201,12 +201,12 @@ h1 {
         height: auto;
     }
     .game-container {
-        max-width: 200px;
-        height: auto;
+        width: 90%;
+        min-width: 1200px;
         margin: auto;
     }
     .board {
-        max-width: 200px;
+        width: 100%;
         height: auto;
         margin: auto;
         padding-left: 15%;

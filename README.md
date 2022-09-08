@@ -57,6 +57,9 @@ To make this game existing two functions are added- Total number of flips and To
 - Firefox
 - Microsoft Edge
 
+### **Screendhots**
+- Console in developers tool: Console donot show any type of error.
+
 
 ### Validator Testing 
 
