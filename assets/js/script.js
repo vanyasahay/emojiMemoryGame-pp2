@@ -121,8 +121,9 @@ const flipCard = card => {
             selectors.win.innerHTML = `
                 <span class="win-text">
                     You are the CHAMPION!<br />
-                    Total moves taken <span class="highlight">${state.totalFlips}</span> moves<br />
-                    Total Time Taken <span class="highlight">${state.totalTime}</span> seconds
+                    Total moves taken: <span class="highlight">${state.totalFlips}</span> moves.<br />
+                    Total Time Taken: <span class="highlight">${state.totalTime}</span> seconds.<br />
+                    "Refresh browser to restart gane"
                 </span>
             `
 
