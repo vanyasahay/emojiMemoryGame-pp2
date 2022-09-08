@@ -1,7 +1,7 @@
 # Fruits Memory Game
 
 Fruits Memory game is based on Javascripts where fruits emojis are used to build up this game. Players have to find matching emojis and once all emojis are matched then game is over.
-To make this game existing two functions are added- Total number of flips and Total time taken to match emojis.
+To make this game existing three functions are added- Start, Total number of flips and Total time taken to match emojis.
 ![Responsice Mockup](/assets/images/emojiMemoryGame.png)
 
 
@@ -12,7 +12,7 @@ To make this game existing two functions are added- Total number of flips and To
 - Click START button on the screen.
 - Match fruits emojis. There are two emojis of same type.
 - Find and match emojis.
-- Congratualatio message will be displayed once all emojis are matched.
+- Congratualation message will be displayed once all emojis are matched.
 - Refresh browser to restart game.
 
 ## Features 
@@ -25,7 +25,7 @@ To make this game existing two functions are added- Total number of flips and To
 
 - __Total Time__
 
- -Total time is the time taken to match all existing emojis. This also records total time taken to finish the game. 
+ -Total time is the time application takes to match all existing emojis. This also records total time taken to finish the game. 
   
 
 - __Total Flips__
