@@ -12,6 +12,7 @@ To make this game existing two functions are added- Total number of flips and To
 - Match fruits emojis. There are two emojis of same type.
 - Find and match emojis.
 - Congratualatio message will be displayed once all emojis are matched.
+- Refresh browser to restart game.
 
 ## Features 
 
