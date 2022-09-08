@@ -2,6 +2,7 @@
 
 Fruits Memory game is based on Javascripts where fruits emojis are used to build up this game. Players have to find matching emojis and once all emojis are matched then game is over.
 To make this game existing two functions are added- Total number of flips and Total time taken to match emojis.
+![Responsice Mockup](/assets/images/emojiMemoryGame.png)
 
 
 - Live Website: https://vanyasahay.github.io/emojiMemoryGame-pp2/
@@ -47,9 +48,10 @@ To make this game existing two functions are added- Total number of flips and To
 - iPad air (Landscape and Portrait Mode)
 - iPad mini (Landscape and Portrait Mode)
 - iPhone 12 pro (Portrait Mode)
+- iPhone XR (Portrait Mode)
 - Samsung Galaxy S20 Ultra (Portrait Mode)
--
-- Tested in responsive toon in Google Chrome Developers Tool.
+- Samsung Galaxy S20 Ultra (Portrait Mode)
+- Tested in responsive tool in Google Chrome Developers Tool.
 
 ### **Browser Testing**
 - Google Chrome
@@ -58,7 +60,20 @@ To make this game existing two functions are added- Total number of flips and To
 - Microsoft Edge
 
 ### **Screendhots**
-- Console in developers tool: Console donot show any type of error.
+- Console in developers tool: Console donot show any type of error:
+    ![Console Output](/assets/images/console_output.png)
+- iPhone XR: 
+    ![iPhone XR](/assets/images/iPhone_XR.png)
+- iPhone 12 Pro:
+    ![iPhone 12 Pro](/assets/images/iPhone12_Pro.png)
+- iPad mini:
+    ![iPad mini](/assets/images/iPad_mini.png)
+- iPad Air:
+    ![iPad Air](/assets/images/iPad_air.png)
+- Samsung Galaxy A5:
+    ![Samsung Galaxy A5](/assets/images/Samsung_Galaxy_A5.png)
+- Samsung Galaxy S20 Ultra
+    ![Samsung Galaxy S20 Ultra](/assets/images/Samsung_Galaxy_S20_Ultra.png)
 
 
 ### Validator Testing 
