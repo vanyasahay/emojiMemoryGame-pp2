@@ -139,9 +139,9 @@ h1 {
 
 /* Extra small devices in portrait mode (phones, 600px and down) */
 
-@media screen and (min-device-width: 380px) and (max-device-width: 736px)and (orientation: portrait) {
+@media screen and (min-width: 380px) and (max-width: 736px)and (orientation: portrait) {
     h1 {
-        padding: auto;
+        padding: 15px;
         display: flex;
         justify-content: center;
     }
@@ -165,9 +165,9 @@ h1 {
 
 /* Small devices in portrait mode (portrait tablets and large phones, 600px and up) */
 
-@media screen and (min-device-width: 834px) and (max-device-width: 834px) and (orientation: portrait) {
+@media screen and (min-width: 834px) and (max-width: 834px) and (orientation: portrait) {
     h1 {
-        padding: auto;
+        padding: 15px;
         display: flex;
         justify-content: center;
         text-size-adjust: auto;
@@ -189,9 +189,9 @@ h1 {
     }
 }
 
-@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (min-resolution: 192dpi) {
+@media screen and (min-width: 1200px) and (max-width: 1600px) and (min-resolution: 192dpi) {
     h1 {
-        padding: auto;
+        padding: 15px;
         display: flex;
         justify-content: center;
         text-size-adjust: auto;
@@ -211,7 +211,4 @@ h1 {
         margin: auto;
         padding-left: 15%;
     }
-}
-
-
 }
