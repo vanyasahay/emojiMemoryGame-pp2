@@ -85,7 +85,8 @@ To make this game existing three functions are added- Start, Total number of fli
 
 ### Unfixed Bugs
 
-Media query needs to fix for some element which do not adjust on small screens.
+- Media query needs to fix for some very small screens.
+- Landscape mode needs to be fised for mobile screens. iPad is working fine.
 
 ## Deployment
 

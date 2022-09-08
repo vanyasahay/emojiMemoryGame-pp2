@@ -5,9 +5,6 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
-/*Header*/
-
 h1 {
     display: flex;
     justify-content: center;
@@ -17,18 +14,12 @@ h1 {
     color: #2c0ac5b7;
 }
 
-
-/*Complete application*/
-
 .memorygame {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
-
-/*Feature*/
 
 .controls {
     display: flex;
@@ -52,17 +43,11 @@ h1 {
     color: #770000;
 }
 
-
-/*Scores*/
-
 .statistics {
     color: #FFF;
     font-size: 14pt;
     font-weight: bold;
 }
-
-
-/*Deck*/
 
 .game-container {
     position: relative;
@@ -76,9 +61,6 @@ h1 {
     transition: transform .8s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
-
-
-/*Cards*/
 
 .board {
     padding: 20px;
@@ -130,9 +112,6 @@ h1 {
     transform: rotateY(0) rotateZ(0);
 }
 
-
-/*Winning Message*/
-
 .win {
     position: absolute;
     top: 0;
@@ -157,9 +136,6 @@ h1 {
     color: #0eade7;
 }
 
-
-/* Extra small devices in portrait mode (phones, 600px and down) */
-
 @media screen and (min-width: 380px) and (max-width: 736px)and (orientation: portrait) {
     h1 {
         padding: 15px;
@@ -182,9 +158,6 @@ h1 {
         padding-left: 15%;
     }
 }
-
-
-/* Small devices in portrait mode (portrait tablets and large phones, 600px and up) */
 
 @media screen and (min-width: 834px) and (max-width: 834px) and (orientation: portrait) {
     h1 {

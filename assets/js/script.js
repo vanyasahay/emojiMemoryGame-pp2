@@ -1,4 +1,3 @@
-//Elements
 const selectors = {
     boardContainer: document.querySelector('.game-container'),
     board: document.querySelector('.board'),
@@ -8,7 +7,6 @@ const selectors = {
     win: document.querySelector('.win')
 }
 
-//Functions
 const state = {
     gameStarted: false,
     flippedCards: 0,
@@ -17,7 +15,6 @@ const state = {
     loop: null
 }
 
-//Suffle Function
 const shuffle = array => {
     const clonedArray = [...array]
 
@@ -32,7 +29,6 @@ const shuffle = array => {
     return clonedArray
 }
 
-//Cards Picker Function
 const pickRandom = (array, items) => {
     const clonedArray = [...array]
     const randomPicks = []
@@ -47,7 +43,6 @@ const pickRandom = (array, items) => {
     return randomPicks
 }
 
-//Game Generation Function
 const generateGame = () => {
         const dimensions = selectors.board.getAttribute('data-dimension')
 
@@ -74,7 +69,6 @@ const generateGame = () => {
     selectors.board.replaceWith(parser.querySelector('.board'))
 }
 
-//Start Game Function
 const startGame = () => {
     state.gameStarted = true
     selectors.start.classList.add('disabled')
@@ -87,7 +81,7 @@ const startGame = () => {
     }, 1000)
 }
 
-//Flip Cards Function
+
 const flipBackCards = () => {
     document.querySelectorAll('.card:not(.matched)').forEach(card => {
         card.classList.remove('flipped')
