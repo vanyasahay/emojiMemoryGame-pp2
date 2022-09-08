@@ -1,7 +1,7 @@
 # Fruits Emoji Memory Game
 
-Fruits Memory game is based on Javascripts where fruits emojis are used to build up this game. Players have to find matching emojis and once all emojis are matched then game is over.
-To make this game existing three functions are added- Start, Total number of flips and Total time taken to match emojis.
+Fruits Emoji Memory game is based on Javascripts where fruits emojis are used to build up this game. Players have to find matching emojis and once all emojis are matched then game is over.
+To play this game, three functions are added- Start, Total number of flips and Total time taken to match emojis.
 ![Responsice Mockup](/assets/images/emojiMemoryGame.png)
 
 
@@ -86,7 +86,7 @@ To make this game existing three functions are added- Start, Total number of fli
 ### Unfixed Bugs
 
 - Media query needs to fix for some very small screens.
-- Landscape mode needs to be fised for mobile screens. iPad is working fine.
+- Landscape mode needs to be fixed for mobile screens. Landscape mode in iPad is working fine.
 
 ## Deployment
 
