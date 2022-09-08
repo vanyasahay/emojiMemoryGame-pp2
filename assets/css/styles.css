@@ -148,12 +148,12 @@
                 height: auto;
             }
             .game-container {
-                width: 90%;
-                margin: 0 auto;
+                width: 100%;
+                margin: auto;
             }
             .board {
-                width: 90%;
-                margin: 0 auto;
+                width: 100%;
+                margin: auto;
             }
         }
         /* Small devices in portrait mode (portrait tablets and large phones, 600px and up) */
@@ -169,11 +169,11 @@
                 height: auto;
             }
             .game-container {
-                width: 90%;
-                margin: 0 auto;
+                width: 100%;
+                margin: auto;
             }
             .board {
-                width: 90%;
-                margin: 0 auto;
+                width: 100%;
+                margin: auto;
             }
         }
