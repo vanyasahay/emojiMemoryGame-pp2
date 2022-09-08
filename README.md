@@ -119,7 +119,7 @@ Press Enter to create your local clone.
   - Developers Tools
   - Mentors and Collegue 
   - VS Code and GITPOD
-  - https://www.webtips.dev/ - Reference used from this website for structuring purpose.
+  - https://www.webtips.dev/memory-game-in-javascript - Reference used from this website for structuring purpose.
   - https://css-tricks.com/a-complete-guide-to-css-media-queries/
   - https://css-tricks.com/responsive-layouts-fewer-media-queries/
   
