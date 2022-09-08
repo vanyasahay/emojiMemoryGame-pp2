@@ -156,6 +156,7 @@
                 width: 100%;
                 height: auto;
                 margin: auto;
+                padding-left: 15%;
             }
         }
         /* Small devices in portrait mode (portrait tablets and large phones, 600px and up) */
@@ -179,5 +180,6 @@
                 width: 100%;
                 height: auto;
                 margin: auto;
+                padding-left: 15%;
             }
         }
