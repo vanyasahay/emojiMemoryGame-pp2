@@ -149,10 +149,12 @@
             }
             .game-container {
                 width: 100%;
+                height: auto;
                 margin: auto;
             }
             .board {
                 width: 100%;
+                height: auto;
                 margin: auto;
             }
         }
@@ -170,10 +172,12 @@
             }
             .game-container {
                 width: 100%;
+                height: auto;
                 margin: auto;
             }
             .board {
                 width: 100%;
+                height: auto;
                 margin: auto;
             }
         }
