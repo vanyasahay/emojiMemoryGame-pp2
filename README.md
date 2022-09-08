@@ -44,8 +44,11 @@ To make this game existing two functions are added- Total number of flips and To
 - Device Tested
 - Macbook Pro
 - Windows 10
-- iPad air
-- iPad mini
+- iPad air (Landscape and Portrait Mode)
+- iPad mini (Landscape and Portrait Mode)
+- iPhone 12 pro (Portrait Mode)
+- Samsung Galaxy S20 Ultra (Portrait Mode)
+-
 - Tested in responsive toon in Google Chrome Developers Tool.
 
 ### **Browser Testing**
