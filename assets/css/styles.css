@@ -155,6 +155,10 @@
                 width: 90%;
                 margin: 0 auto;
             }
+            .card {
+                width: 90%;
+                margin: 0 auto;
+            }
         }
         /* Small devices in portrait mode (portrait tablets and large phones, 600px and up) */
         
@@ -173,6 +177,10 @@
                 margin: 0 auto;
             }
             .board {
+                width: 90%;
+                margin: 0 auto;
+            }
+            .card {
                 width: 90%;
                 margin: 0 auto;
             }
