@@ -63,8 +63,7 @@ const generateGame = () => {
             `).join('')}
        </div>
     `
-    
-    const parser = new DOMParser().parseFromString(cards, 'text/html')
+     const parser = new DOMParser().parseFromString(cards, 'text/html')
 
     selectors.board.replaceWith(parser.querySelector('.board'))
 }
