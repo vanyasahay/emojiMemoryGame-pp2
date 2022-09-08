@@ -123,7 +123,7 @@ const flipCard = card => {
                     You are the CHAMPION!<br />
                     Total moves taken: <span class="highlight">${state.totalFlips}</span> moves.<br />
                     Total Time Taken: <span class="highlight">${state.totalTime}</span> seconds.<br />
-                    "Refresh browser to restart gane"
+                    "Refresh browser to restart game."
                 </span>
             `
 
